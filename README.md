@@ -1,0 +1,1 @@
+tradingview-ticker scrapes tradingview.com and sends current prices of specified ticker symbols to webhook URL.
